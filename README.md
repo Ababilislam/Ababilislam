@@ -88,40 +88,12 @@ I'm currently learning Python, AWS, Docker, AI, ML and Computer Vision to improv
 
 
 <h1 align="left"> on development </h1>
-///////
-/////////////////////////////////////////////////////////////////////////////////////
 
 
 
 
-
-this is the deviwsion part...
-
-
-
-
-/////////////////////////////////////////////////////////////////
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 🌟 Projects
- - Project Name: Brief description of the project. Technologies used: [List of technologies].
- - Project Name: Brief description of the project. Technologies used: [List of technologies].
- - Project Name: Brief description of the project. Technologies used: [List of technologies].
-
-## 🛠️ Screenshots of Project
-<img alt="Project Work" height="200" src="https://miro.medium.com/v2/resize:fit:828/1*oeyjen1fL_SdX2w2_TCS6A.gif" style="max-width: 100%; display: inline-block;">
+<!-- ## 🛠️ Screenshots of Project
+<img alt="Project Work" height="200" src="https://miro.medium.com/v2/resize:fit:828/1*oeyjen1fL_SdX2w2_TCS6A.gif" style="max-width: 100%; display: inline-block;"> -->
 
 
 ## 💻 Work Experience
@@ -137,6 +109,21 @@ this is the deviwsion part...
 ## 📚 Training
 - [List of training courses you've completed]
 - [List of certifications you've earned]
+
+
+///////
+/////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+
+this is the deviwsion part...
+
+
+
+
+/////////////////////////////////////////////////////////////////
 
 ## 🏆 Achievements
 - [List of professional achievements, such as awards, recognitions, or honors]
