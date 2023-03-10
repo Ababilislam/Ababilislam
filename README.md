@@ -1,6 +1,6 @@
 
 
-<img alt="Coder GIF" src="https://github.com/Ababilislam/Ababilislam/blob/main/github%20banner1.png" style="max-width: 100%;" data-target="animated-image.originalImage">
+<img alt="Coder GIF" src="https://github.com/Ababilislam/Ababilislam/blob/d76c1d8a5548437f1b568d223ad50b9a56be0f24/github%20banner.png" style="max-width: 100%;" data-target="animated-image.originalImage">
 <h1 align="center">Hi 👋, I'm ABABIL ISLAM UDOY</h1>
 <h3 align="center">A passionate python developer from Bangladesh</h3>
 <h3 align="left">BJET Trainee @ BJET(Bangladesh-Japan ICT Engineers' Training Program)</h3>
