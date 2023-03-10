@@ -97,11 +97,18 @@ I'm currently learning Python, AWS, Docker, AI, ML and Computer Vision to improv
 
 
 ## 💻 Work Experience
-- Company Name, [Job Title], [Employment Dates]<br />
-  Brief description of your role and responsibilities. Achievements or notable projects you worked on. Technologies used: [List of technologies].
-- Company Name, [Job Title], [Employment Dates]<br />
-  Brief description of your role and responsibilities. Achievements or notable projects you worked on. Technologies used: [List of technologies].
+- B-JET (Bangladesh-Japan ICT Engineers' Training Program), Trainee, 10-10-2022-10-3-2023 <br />
 
+Bangladesh-Japan ICT Engineers' Training (B-JET) Program is a collaborative project of the North South University (NSU), the University of Miyazaki, and other cooperating companies (BJIT Group, B&M and SHINKOSHUPPANSHA KEIRINKAN). 
+Received Training On: 
+❏ Japanese language (JLPT N4 Level).
+❏ Real-life Japanese conversations.
+❏ Japanese Business Manner.
+❏ ICT training.
+Skills: Project management, CPM Scheduling · Japanese Culture · Japanese · Teamwork · Business Manner · Software Project Management · Software Development Life Cycle (SDLC) · Cloud Computing. Got certificate of Achievement from University of Miyazaki. Technologies used:slack, Redmine, Python, google services. 
+<!-- - Company Name, [Job Title], [Employment Dates]<br />
+  Brief description of your role and responsibilities. Achievements or notable projects you worked on. Technologies used: [List of technologies].
+ -->
 ## 🎓 Education
 - University Name, [Degree], [Graduation Date]
 - University Name, [Degree], [Graduation Date]
