@@ -102,10 +102,9 @@ Bangladesh-Japan ICT Engineers' Training (B-JET) Program is a collaborative proj
 <h3>Received Training On:</h3>
 <ul>
  <li>Japanese language (JLPT N4 Level).</li>
-- <li>Real-life Japanese conversations.</li>
-- 
-- Japanese Business Manner.
-- ICT training.
+ <li>Real-life Japanese conversations.</li>
+<li>Japanese Business Manner</li>
+ <li>ICT training.</li>
  </ul>
 <h3>Skills:</h3><h4> Project management, CPM Scheduling · Japanese Culture · Japanese · Teamwork · Business Manner · Software Project Management · Software Development Life Cycle (SDLC) · Cloud Computing.</h4><br/>
 Got certificate of Achievement from University of Miyazaki.<br/>
