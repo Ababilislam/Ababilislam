@@ -100,10 +100,13 @@ I'm currently learning Python, AWS, Docker, AI, ML and Computer Vision to improv
 B-JET (Bangladesh-Japan ICT Engineers' Training Program), Trainee, duration: 10-10-2022-10-3-2023. <br />
 Bangladesh-Japan ICT Engineers' Training (B-JET) Program is a collaborative project of the North South University (NSU), the University of Miyazaki, and other cooperating companies (BJIT Group, B&M and SHINKOSHUPPANSHA KEIRINKAN).<br/>
 <h3>Received Training On:</h3>
-- Japanese language (JLPT N4 Level).
-- Real-life Japanese conversations.
+<ul>
+ <li>Japanese language (JLPT N4 Level).</li>
+- <li>Real-life Japanese conversations.</li>
+- 
 - Japanese Business Manner.
 - ICT training.
+ </ul>
 <h3>Skills:</h3><h4> Project management, CPM Scheduling · Japanese Culture · Japanese · Teamwork · Business Manner · Software Project Management · Software Development Life Cycle (SDLC) · Cloud Computing.</h4><br/>
 Got certificate of Achievement from University of Miyazaki.<br/>
 Technologies used: slack, Redmine, Python, google services. 
