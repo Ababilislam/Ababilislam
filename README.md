@@ -82,16 +82,6 @@ I'm currently learning Python, AWS, Docker, AI, ML and Computer Vision to improv
 
 
 
-
-
-////working page//
-
-
-<h1 align="left"> on development </h1>
-
-
-
-
 <!-- ## 🛠️ Screenshots of Project
 <img alt="Project Work" height="200" src="https://miro.medium.com/v2/resize:fit:828/1*oeyjen1fL_SdX2w2_TCS6A.gif" style="max-width: 100%; display: inline-block;"> -->
 
@@ -132,19 +122,6 @@ Bangladesh-Japan ICT Engineers' Training (B-JET) Program is a collaborative proj
 - Book Reading Competition, Nov. 2018
 
 
-///////
-/////////////////////////////////////////////////////////////////////////////////////
-
-
-
-
-
-this is the deviwsion part...
-
-
-
-
-/////////////////////////////////////////////////////////////////
 
 
 <!-- 
