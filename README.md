@@ -124,10 +124,12 @@ Bangladesh-Japan ICT Engineers' Training (B-JET) Program is a collaborative proj
 - Cisco Certified Network Associate (Ref. code CCNA2004180222).
 
 ## 📜 Professional Certification
-- Write Professional Emails in English, Coursera [https://coursera.org/share/70f8186ff733fed37b53cb8f22000582],May 2020.
-- Python Data Structures, Coursera [https://coursera.org/share/4d6f76f8e0a04021bbab9dd5aed057f6],May 2020.
+- Write Professional Emails in English, Coursera [https://coursera.org/share/70f8186ff733fed37b53cb8f22000582], May 2020.
+- Python Data Structures, Coursera [https://coursera.org/share/4d6f76f8e0a04021bbab9dd5aed057f6], May 2020.
 - Introduction to Structured Query Language (SQL), Coursera [https://coursera.org/share/6f94e016f5f07e53227b0eb9af7dfa0a], May 2020.
 
+## 🏆 Achievements
+- Book Reading Competition, Nov. 2018
 
 
 ///////
@@ -144,22 +146,14 @@ this is the deviwsion part...
 
 /////////////////////////////////////////////////////////////////
 
-## 🏆 Achievements
-- [List of professional achievements, such as awards, recognitions, or honors]
-- [List of projects you've completed that you're particularly proud of]
 
+<!-- 
 ## 💻 Coding Contest Participation Record
 - [Name of the coding contest], [Rank], [Year]
-- [Name of the coding contest], [Rank], [Year]
+- [Name of the coding contest], [Rank], [Year] -->
 
-## 📈 GitHub Stats
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uksaha77&label=Profile%20views&color=0e75b6&style=flat" alt="uksaha77" /> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=uksaha77&show_icons=true&locale=en" alt="uksaha77" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uksaha77&" alt="uksaha77" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uksaha77" alt="uksaha77" /></a> </p>
 
-## 🏷️ Video Resources
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=hexfXc7-SsU" target="_blank"><img src="http://img.youtube.com/vi/hexfXc7-SsU/0.jpg" alt="10 Udemy Courses Every Developer SHOULD Own" width="200" height="140" border="10" /></a>   <a href="http://www.youtube.com/watch?feature=player_embedded&v=-OAa9k0zCDg" target="_blank"><img src="http://img.youtube.com/vi/-OAa9k0zCDg/0.jpg" alt="Tops 5 skills to get" width="200" height="140" border="10" /></a>
 
-## 💻 Github Repositories
+<!-- ## 🏷️ Video Resources
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=hexfXc7-SsU" target="_blank"><img src="http://img.youtube.com/vi/hexfXc7-SsU/0.jpg" alt="10 Udemy Courses Every Developer SHOULD Own" width="200" height="140" border="10" /></a>   <a href="http://www.youtube.com/watch?feature=player_embedded&v=-OAa9k0zCDg" target="_blank"><img src="http://img.youtube.com/vi/-OAa9k0zCDg/0.jpg" alt="Tops 5 skills to get" width="200" height="140" border="10" /></a> -->
 
