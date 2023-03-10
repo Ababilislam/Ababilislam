@@ -108,7 +108,7 @@ Bangladesh-Japan ICT Engineers' Training (B-JET) Program is a collaborative proj
  </ul>
 <h3>Skills:</h3><h4> Project management, CPM Scheduling · Japanese Culture · Japanese · Teamwork · Business Manner · Software Project Management · Software Development Life Cycle (SDLC) · Cloud Computing.</h4>
 <h3>Recived certificate of Achievement from University of Miyazaki.</h3>
-Technologies used: slack, Redmine, Python, google services. 
+<h3>Technologies used: slack, Redmine, Python, google services, zoom & others.</h3>
 
 <!-- - Company Name, [Job Title], [Employment Dates]<br />
   Brief description of your role and responsibilities. Achievements or notable projects you worked on. Technologies used: [List of technologies].
