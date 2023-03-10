@@ -97,7 +97,7 @@ I'm currently learning Python, AWS, Docker, AI, ML and Computer Vision to improv
 
 
 ## 💻 Work Experience
-- B-JET (Bangladesh-Japan ICT Engineers' Training Program), Trainee, 10-10-2022-10-3-2023 <br />
+<h3> B-JET (Bangladesh-Japan ICT Engineers' Training Program), Trainee, 10-10-2022-10-3-2023 </h3> <br />
 
 Bangladesh-Japan ICT Engineers' Training (B-JET) Program is a collaborative project of the North South University (NSU), the University of Miyazaki, and other cooperating companies (BJIT Group, B&M and SHINKOSHUPPANSHA KEIRINKAN). 
 Received Training On: 
