@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @Ababilislam
-- 👀 I’m interested in AI, ML, Pattern recognition and finally web develpment
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on web project
-- 📫 How to reach me ->> send me a mail at ->> ababilislamudoy@gmail.com 
-<!-- a normal html comment -->
+
 
 <img alt="Coder GIF" src="https://raw.githubusercontent.com/uksaha77/uksaha77/main/web-development-banner.gif" style="max-width: 100%;" data-target="animated-image.originalImage">
 <h1 align="center">Hi 👋, I'm ABABIL ISLAM UDOY</h1>
