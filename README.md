@@ -124,9 +124,9 @@ Bangladesh-Japan ICT Engineers' Training (B-JET) Program is a collaborative proj
 - Cisco Certified Network Associate (Ref. code CCNA2004180222).
 
 ## 📜 Professional Certification
-- Write Professional Emails in English, Coursera [https://coursera.org/share/70f8186ff733fed37b53cb8f22000582],May 2020
-Python Data Structures, Coursera [https://coursera.org/share/4d6f76f8e0a04021bbab9dd5aed057f6],May 2020
-Introduction to Structured Query Language (SQL), Coursera [https://coursera.org/share/6f94e016f5f07e53227b0eb9af7dfa0a], May 2020
+- Write Professional Emails in English, Coursera [https://coursera.org/share/70f8186ff733fed37b53cb8f22000582],May 2020.
+- Python Data Structures, Coursera [https://coursera.org/share/4d6f76f8e0a04021bbab9dd5aed057f6],May 2020.
+- Introduction to Structured Query Language (SQL), Coursera [https://coursera.org/share/6f94e016f5f07e53227b0eb9af7dfa0a], May 2020.
 
 
 
