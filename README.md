@@ -1,6 +1,6 @@
 
 
-<img alt="Coder GIF" src="" style="max-width: 100%;" data-target="animated-image.originalImage">
+<img alt="Coder GIF" src="https://github.com/Ababilislam/Ababilislam/blob/3e9072a4cca2d5cc6af239a68ad04c6117f58e4c/github%20banner.png" style="max-width: 100%;" data-target="animated-image.originalImage">
 <h1 align="center">Hi 👋, I'm ABABIL ISLAM UDOY</h1>
 <h3 align="center">A passionate python developer from Bangladesh</h3>
 
